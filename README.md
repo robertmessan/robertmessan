@@ -7,6 +7,7 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertmessan&theme=2077" alt="Most Commit Language">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertmessan&theme=2077" alt="Stats">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertmessan&theme=2077&utcOffset=8" alt="Productive Time">
+        <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=robertmessan&show_icons=true&locale=en" alt="aunsiels" /></p>
     </div>
 </body>
 </html>
